@@ -81,8 +81,5 @@ These filters enable detailed and segmented analysis of customer behavior.
 This project demonstrates how customer data can be transformed into meaningful insights using data analytics tools. The dashboard helps businesses identify key customer segments, optimize product strategies, and improve customer engagement.
 
 ---
-
-## Author
-**Your Name**  
-Data Analytics / Business Intelligence Enthusiast  
+ 
 
